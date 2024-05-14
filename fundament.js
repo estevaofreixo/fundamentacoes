@@ -57,8 +57,7 @@ var titulosTextos = {
     "VALOR MÍNIMO PARA EXPEDIR ALVARÁ AO INSS": "R$ 10,00\n\nNESTES CASOS, NÃO CONSTAR DA HOMOLOGAÇÃO O VALOR DEVIDO A TÍTULO DE INSS",
     
 
-};
-    
+};    
     
 
 function pesquisarTitulo() {
@@ -109,3 +108,26 @@ function copiarTexto() {
     campoTexto.setSelectionRange(0, 0);
 }
 
+// teclas home e end
+
+const editable = document.getElementById('editable');
+
+        editable.addEventListener('keydown', function(event) {
+            if (event.key === 'Home') {
+                event.preventDefault();
+                const selection = window.getSelection();
+                const range = document.createRange();
+                range.setStart(this.firstChild, 0);
+                range.collapse(true);
+                selection.removeAllRanges();
+                selection.addRange(range);
+            } else if (event.key === 'End') {
+                event.preventDefault();
+                const selection = window.getSelection();
+                const range = document.createRange();
+                range.setStart(this.lastChild, this.lastChild.length);
+                range.collapse(true);
+                selection.removeAllRanges();
+                selection.addRange(range);
+            }
+        });
