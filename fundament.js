@@ -19,7 +19,7 @@ var titulosTextos = {
     "CORREÇÃO MONETÁRIA – MÊS SUBSEQUENTE": "Súmula nº 381 do TST\n\nCORREÇÃO MONETÁRIA. SALÁRIO. ART. 459 DA CLT (conversão da Orientação Jurisprudencial nº 124 da SBDI-1) - Res. 129/2005, DJ 20, 22 e 25.04.2005\n\nO pagamento dos salários até o 5º dia útil do mês subsequente ao vencido não está sujeito à correção monetária. Se essa data limite for ultrapassada, incidirá o índice da correção monetária do mês subsequente ao da prestação dos serviços, a partir do dia 1º. (ex-OJ nº 124 da SBDI-1 - inserida em 20.04.1998)",
     "CORREIOS – EQUIPARA-SE À FAZENDA PÚBLICA": "Quanto aos índices de atualização monetária, creio equivocar-se, tendo em vista que o réu equipara-se à Fazenda Pública, conforme decisão do STF relativa ao RE 220906.\n\nO art. 12 do Decreto-Lei nº 509/1969 estende à ECT os privilégios referentes a foro, prazos e custas processuais concedidos à Fazendo Pública; dispositivo legal que foi declarado recepcionado pela CF88, conforme decidiu o STF no RE 220906/DF\n\nRE 220906.",
     "COTAS PREVIDENCIÁRIAS – ATUALIZAÇÃO PELA TR": "Quanto à atualização das cotas previdenciárias, creio equivocar-se o réu, tendo em vista que o entendimento deste Juízo é no sentido de que os valores devidos a tal título devem ser corrigidos pela TR, conforme artigo 879 da CLT, que determina, sem ressalvas, que a atualização dos créditos decorrentes de condenação judicial sejam feitos feita pela Taxa Referencial (TR).",
-    "DANOS MORAIS": "Súmula nº 439 do TST\n\nDANOS MORAIS. JUROS DE MORA E ATUALIZAÇÃO MONETÁRIA. TERMO INICIAL - Res. 185/2012, DEJT divulgado em 25, 26 e 27.09.2012\n\nNas condenações por dano moral, a atualização monetária é devida a partir da data da decisão de arbitramento ou de alteração do valor. Os juros incidem desde o ajuizamento da ação, nos termos do art. 883 da CLT.",
+    "DANOS MORAIS": "Súmula nº 439 do TST\n\nDANOS MORAIS. JUROS DE MORA E ATUALIZAÇÃO MONETÁRIA. TERMO INICIAL - Res. 185/2012, DEJT divulgado em 25, 26 e 27.09.2012\n\nNas condenações por dano moral, a atualização monetária é devida a partir da data da decisão de arbitramento ou de alteração do valor. Os juros incidem desde o ajuizamento da ação, nos termos do art. 883 da CLT.\n\n*\n\nConforme Súmula 439 do TST, a atualização monetária da indenização por danos morais é devida a partir da data da decisão de arbitramento ou de alteração do valor.",
     "DECADÊNCIA DO CRÉDITO PREVIDENCIÁRIO": "Sem razão.\n\nTranscrevo ementa de acórdão proferido em ação similar:\n\nPROCESSO nº 0010219-65.2015.5.01.0011 (AP)\n\nAGRAVANTE: CLAUDIO DA SILVA SARGO\n\nAGRAVADO: GLOBO COMUNICACAO E PARTICIPACOES S/A\n\nRELATOR: DESEMBARGADOR DO TRABALHO ENOQUE RIBEIRO DOS SANTOS\n\nEMENTA\n\nAGRAVO DE PETIÇÃO DA EXECUTADA. CONTRIBUIÇÕES PREVIDENCIÁRIAS.\n\nDECADÊNCIA DO CRÉDITO EXECUTADO.NÃO CONFIGURAÇÃO.A jurisprudência majoritária das Cortes trabalhistas pátrias adotam entendimento no sentido de que somente com a ciência, à União Federal, da decisão que reconhece o direito, é que tem início a contagem do prazo decadencial de cinco anos alusivo ao crédito tributário (art. 174 do CTN). Recurso a que se nega provimento, no particular.\n\nComo in casu não foi dada ciência à União, não há falar em decadência. Ademais a declaração do direito só se deu com o trânsito em julgado da decisão.",
     "DEDUÇÃO DAS HORAS EXTRAS PAGAS": "OJ-SDI1-415 HORAS EXTRAS. RECONHECIMENTO EM JUÍ- ZO. CRITÉRIO DE DEDUÇÃO/ABATIMENTO DOS VALORES COMPROVADAMENTE PAGOS NO CURSO DO CONTRATO DE TRABALHO. (DEJT divulgado em 14, 15 e 16.02.2012)\n\nA dedução das horas extras comprovadamente pagas daquelas reconhecidas em juízo não pode ser limitada ao mês de apuração, devendo ser integral e aferida pelo total das horas extraordinárias quitadas durante o período imprescrito do contrato de trabalho.",
     "DESONERAÇÃO DA FOLHA DE PAGAMENTO - Lei n. 12715/2012": "No que se refere à Lei de Desoneração da Folha de Pagamento, é de entendimento do Juízo que inexiste previsão legal para que a referida norma alcance os créditos reconhecidos judicialmente.\n\nAlém disso, o regramento invocado se restringe aos contratos de trabalho em curso, referentes às contribuições previdenciárias decorrentes do pagamento mês a mês das verbas trabalhistas, o que não se aplica ao presente caso; inclusive porque o recolhimento das contribuições previdenciárias incidentes sobre créditos trabalhistas oriundos de decisões judiciais possui regramento legal específico, nos termos dos artigos 43 e 44 da Lei 8.212/91, artigo 276, §6º, do Decreto 3.048/99 e Súmula 368 do TST.",
@@ -34,8 +34,9 @@ var titulosTextos = {
     "INCIDÊNCIA DE JUROS SOBRE MULTAS DEFERIDAS EM SENTENÇA": "Não assistir razão ao réu quanto à indevida apuração de juros sobre as multas deferidas em sentença, vez que a incidência de juros deve se dar sobre a totalidade da condenação após deduzidas as cotas previdenciárias e o imposto de renda.",
     "INSS – JUROS SELIC": "Não assiste razão ao réu, uma vez que são aplicáveis os juros SELIC às contribuições previdenciárias pagas em atraso, conforme estabelecem as alterações que o artigo 26 da Lei nº 11.941 de 27 de maio de 2009 produz sobre a Lei nº 8.212, de 24 de julho de 1991.\n\n**\n\nInformo a V. Exa. que entendo não assistir razão ao réu quanto ao equívoco na apuração das contribuições previdenciárias, ante o que consta da Súmula 66 deste Tribunal:\n\nSÚMULA Nº 66 Contribuição previdenciária sobre o crédito judicial trabalhista. Fato gerador. Acréscimos legais moratórios. Nova redação do art. 43 da Lei 8.212/91. Vigência. Regime híbrido de apuração. I - Para prestação de serviços ocorrida até 04/03/2009,inclusive, o fato gerador da contribuição previdenciária vinculada ao processo trabalhista é a constituição do crédito. Seu recolhimento dar-se-á até o dia 2 do mês subsequente à liquidação do julgado, de acordo com o art. 276 do Decreto 3.048/1999.Extrapolado este prazo, a contribuição previdenciária será corrigida monetariamente e acrescida de juros e multa moratórios. II - Para prestação de serviços ocorrida a partir de 05/03/2009,inclusive, o fato gerador da contribuição previdenciária é a prestação de serviços, nos termos do art. 43 da Lei 8.212/91, com redação dada pela Lei 11.941/2009, com juros e correção monetária computados a partir dos meses de competência e recolhimento na mesma data prevista para o pagamento do crédito judicial trabalhista\n\n",
     "INSS PATRONAL - SIMPLES NACIONAL": "assistir razão ao réu, quanto ao não cabimento das cotas previdenciárias de sua responsabilidade, haja vista ter sido optante do 'Simples Nacional' por ocasião da prestação de serviços.  Nesse sentido, este Juízo acompanha a Súmula 66 deste E. Tribunal, que dispõe regime híbrido de apuração, conforme abaixo se transcreve:\n\nSÚMULA 66\n\nCONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE O CRÉDITO JUDICIAL TRABALHISTA. FATO GERADOR. ACRÉSCIMOS LEGAIS MORATÓRIOS. NOVA REDAÇÃO DO ART. 43 DA LEI 8.212/91. VIGÊNCIA. REGIME HÍBRIDO DE APURAÇÃO.\n\nI - Para prestação de serviços ocorrida até 04/03/2009, inclusive, o fato gerador da contribuição previdenciária vinculada ao processo trabalhista é a constituição do crédito. Seu recolhimento dar-se-á até o dia 2 do mês subsequente à liquidação do julgado, de acordo com o art. 276 do Decreto 3.048/1999. Extrapolado este prazo, a contribuição previdenciária será corrigida monetariamente e acrescida de juros e multa moratórios. II - Para prestação de serviços ocorrida a partir de 05/03/2009, inclusive, o fato gerador da contribuição previdenciária é a prestação de serviços, nos termos do art. 43 da Lei 8.212/91, com redação dada pela Lei 11.941/2009, com juros e correção monetária computados a partir dos meses de competência e recolhimento na mesma data prevista para o pagamento do crédito judicial trabalhista.\n\n",
-    "JUROS FAZENDA PÚBLICA": "JUROS – FAZENDA PÚBLICA\n\nLEI 9.494 DE 1997\n\nhttp://www.planalto.gov.br/ccivil_03/leis/l9494.htm\n\nOJ 07 TST\n\nhttp://www3.tst.jus.br/jurisprudencia/OJ_Pleno/n_TP_01.html#TEMA7",
+    "JUROS FAZENDA PÚBLICA": "JUROS – FAZENDA PÚBLICA\n\nLEI 9.494 DE 1997\n\nhttp://www.planalto.gov.br/ccivil_03/leis/l9494.htm\n\nOJ 07 TST\n\nhttp://www3.tst.jus.br/jurisprudencia/OJ_Pleno/n_TP_01.html#TEMA7\n\nacredito devam ser os débitos trabalhistas corrigidos monetariamente pelo IPCA-E, acrescidos dos juros de mora que remuneram a poupança (art. 1º-F da Lei nº 9.494/97).",
     "JUROS SELIC SIMPLES – JUROS SELIC (RECEITA FEDERAL)": "A esse respeito, o item 7, da minuta do acórdão da ADC 58/59 é claro ao determinar:\n\n'7. Em relação à fase judicial, a atualização dos débitos judiciais deve ser efetuada pela taxa referencial do Sistema Especial de Liquidação e Custódia – SELIC, considerando que ela incide como juros moratórios dos tributos federais (arts. 13, da Lei 9.065/95; 84 da Lei 8.981/95; 39, §4º, da Lei 9.250/95; 61, §3º da Lei 9.430/96; e 30 da Lei 10.522/02).'",
+    "JUROS SOBRE MULTA": "entendo não assistir razão ao réu quanto ao efeito de bis in idem na aplicação dos juros sobre a multa deferida, uma vez que os juros de mora não corresponem a penalidade, mas apenas a remuneração do capital retido.",
     "JUROS SOBRE VALOR LÍQUIDO": "Quanto aos juros de mora, entendo devam ser aplicados sobre o valor líquido devido autor, uma vez que a “condenação” a que se refere o art. 883 da CLT corresponde ao crédito a ser recebido pelo empregado, e não àqueles devidos à Previdência Social e à Receita Federal.",
     "MASSA FALIDA - ATUALIZAÇÃO": "assistir razão ao réu quanto à limitação da incidência do juros de mora até a data da falência. No que se refere à correção monetária, entretanto, acredito equivocar-se, haja vista o entendimento do Juízo no sentido de que tal incidência deve dar-se até a data do cálculo.",
     "MÉDIA FISICA - HORAS EXTRAS": "No que diz respeito à inobservância da média duodecimal para o cálculo do reflexo das horas extras sobre verbas rescisórias, creio equivocar-se o réu, já que a média física do labor extraordinário deve ser apurada de acordo com o número de meses do respectivo interstício a ser considerado.\n\nTodavia, o autor apura as repercussões com base em média única, quando cabem médias distintas segundo a verba resilitória sobre a qual incide o reflexo.",
@@ -110,24 +111,30 @@ function copiarTexto() {
 
 // teclas home e end
 
-const editable = document.getElementById('editable');
-
-        editable.addEventListener('keydown', function(event) {
-            if (event.key === 'Home') {
-                event.preventDefault();
-                const selection = window.getSelection();
-                const range = document.createRange();
-                range.setStart(this.firstChild, 0);
-                range.collapse(true);
-                selection.removeAllRanges();
-                selection.addRange(range);
-            } else if (event.key === 'End') {
-                event.preventDefault();
-                const selection = window.getSelection();
-                const range = document.createRange();
-                range.setStart(this.lastChild, this.lastChild.length);
-                range.collapse(true);
-                selection.removeAllRanges();
-                selection.addRange(range);
-            }
-        });
+function teclasHomeEnd() {
+    const editable = document.getElementById('editable'); // Obtém referência para a textarea
+  
+    editable.addEventListener('keydown', function(event) {
+      const key = event.key || String.fromCharCode(event.keyCode); // Obtém a tecla pressionada
+  
+      if (key === 'Home') { // Se a tecla for 'Home'
+        event.preventDefault(); // Evita comportamento padrão da tecla
+        const selection = window.getSelection(); // Obtém a seleção de texto
+        const range = document.createRange(); // Cria um novo intervalo
+        range.setStart(editable.firstChild, 0); // Define o início no primeiro filho, posição 0
+        range.collapse(true); // Colapsa o intervalo para o início
+        selection.removeAllRanges(); // Remove todas as seleções
+        selection.addRange(range); // Adiciona o novo intervalo à seleção
+      } else if (key === 'End') { // Se a tecla for 'End'
+        event.preventDefault(); // Evita comportamento padrão da tecla
+        const selection = window.getSelection(); // Obtém a seleção de texto
+        const range = document.createRange(); // Cria um novo intervalo
+        range.setStart(editable.lastChild, editable.lastChild.length); // Define o início no último filho, final do conteúdo
+        range.collapse(true); // Colapsa o intervalo para o final
+        selection.removeAllRanges(); // Remove todas as seleções
+        selection.addRange(range); // Adiciona o novo intervalo à seleção
+      }
+    });
+  }
+  
+  
